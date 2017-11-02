@@ -1,0 +1,28 @@
+{
+  "name": "tokenchecker",
+  "version": "1.0.0",
+  "description": "Checks ERC20 and ERC23 tokens to see if symbol name has been used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingqingmeng/tokenchecker.git"
+  },
+  "keywords": [
+    "ethereum",
+    "eth",
+    "erc20",
+    "token",
+    "erc23",
+    "bitcoin",
+    "btc"
+  ],
+  "author": "lingqingmeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingqingmeng/tokenchecker/issues"
+  },
+  "homepage": "https://github.com/lingqingmeng/tokenchecker#readme"
+}
